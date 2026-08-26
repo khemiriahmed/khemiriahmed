@@ -4,7 +4,7 @@
  
 <div align="center">
 
-### 💫 Développeur Full Stack | Java Spring Boot | PHP Laravel | Frontend
+### 💫 Développeur Full Stack | Java Spring Boot | PHP Laravel | React | Angular | Vue.js
 
   <p>
     <em>Transformant des idées en applications web performantes, scalables et modernes</em>
