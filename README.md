@@ -1,258 +1,246 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Salut+%F0%9F%91%8B+Je+suis+un+D%C3%A9veloppeur+Full+Stack;Java+Spring+Boot+%7C+React+%7C+Angular+%7C+Vue.js;5%2B+ann%C3%A9es+d'exp%C3%A9rience;Passionn%C3%A9+par+les+applications+web+modernes" alt="Typing SVG" />
-</div>
 
-<div align="center">
+# 👋 Ahmed Khemiri
 
-### 💫 Développeur Full Stack | Java Spring Boot | Frontend
+### Full Stack Web Developer | Java • Spring Boot • React • Angular • Vue.js • Laravel
 
-  <p>
-    <em>Transformant des idées en applications web performantes, scalables et modernes</em>
-  </p>
+<p>
+  <em>Je conçois et développe des applications web modernes, performantes, sécurisées et évolutives.</em>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-khemiri-19it/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:khemiriahmed6@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/ahmed-khemiri-19it/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:khemiriahmed6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 À propos de moi
+## 👨‍💻 À propos de moi
 
-```javascript
-const developpeur = {
-    nom: "Ahmed Khemiri",
-    role: "Développeur Full Stack",
-    experience: "5+ années",
-    localisation: "Tunis, Tunisie 🇹🇳",
-    passion: [
-        "Code propre",
-        "Architecture logicielle",
-        "UX/UI",
-        "Performance",
-        "Microservices",
-        "Innovation"
-    ],
-    frontend: [
-        "React",
-        "Angular",
-        "Vue.js",
-        "TypeScript",
-        "JavaScript"
-    ],
-    backend: [
-        "Java",
-        "Spring Boot",
-        "Spring Security",
-        "Spring Cloud",
-        "Laravel",
-        "PHP"
-    ],
-    actuellement: "Toujours en apprentissage de nouvelles technologies 🌱"
-};
-```
+Développeur web avec **5+ années d'expérience**, spécialisé dans la conception et le développement d'applications web.
 
-🎯 **Expertise** : Conception et développement d'applications web adaptatives de bout en bout
-⚡ **Spécialités** : Frontend moderne, backend Java/Spring Boot, APIs REST et architectures microservices
-🌟 **Approche** : Code maintenable, bonnes pratiques, sécurité, performance et scalabilité
+Mon parcours couvre aussi bien le **Frontend** que le **Backend**, avec une expérience dans plusieurs environnements techniques :
+
+* ☕ **Java / Spring Boot**
+* 🌐 **React / Angular / Vue.js**
+* 🐘 **PHP / Laravel**
+* 🔐 **Spring Security / JWT / OAuth2 / Keycloak**
+* 🧩 **Microservices / Spring Cloud**
+* 📨 **Apache Kafka**
+* 🗄️ **MySQL / PostgreSQL**
+* 🐳 **Docker / CI/CD**
+* 📝 **WordPress / PrestaShop / Drupal**
+
+Je m'intéresse particulièrement aux architectures propres, aux bonnes pratiques de développement et à la conception d'applications **maintenables et évolutives**.
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Technologies
 
-<div align="center">
+### ☕ Backend — Java / Spring
 
-### ☕ Java & Spring Ecosystem
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+* Java
+* Spring Boot
+* Spring Web / REST API
+* Spring Data JPA
+* Hibernate
+* Spring Security
+* JWT
+* OAuth2 / OpenID Connect
+* Keycloak
 
-### 🌐 Frontend Development
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+### 🧩 Microservices & Spring Cloud
 
-### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud">
+  <img src="https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Eureka">
+  <img src="https://img.shields.io/badge/API_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="API Gateway">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+* Architecture Microservices
+* Spring Cloud
+* Eureka Service Discovery
+* Spring Cloud Gateway
+* Communication inter-services
+* Apache Kafka
+* Event-driven architecture
+* REST APIs
 
-### 🧩 Microservices & Architecture
+---
 
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge\&logo=keycloak\&logoColor=white)
+### 🌐 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+* React
+* Angular
+* Vue.js
+* JavaScript / TypeScript
+* HTML5 / CSS3
+* Sass
+* Tailwind CSS
+* Bootstrap
+* Responsive Design
+* Component-based architecture
+* State management
+
+---
+
+### 🐘 Backend — PHP / Laravel
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+</p>
+
+* PHP POO
+* Laravel
+* REST API
+* Authentication & Authorization
+* MVC
+* Eloquent ORM
+* MySQL
+* Composer
+
+---
 
 ### 🔐 Sécurité
 
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge\&logo=oauth\&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge\&logo=keycloak\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2">
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak">
+</p>
 
-### 🗄️ Bases de Données
+* Spring Security
+* JWT
+* OAuth2
+* OpenID Connect
+* Keycloak
+* Authentication
+* Authorization
+* Role-based access control
+* Securing REST APIs
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+---
 
-### 📨 Messaging & Event Driven
+### 🗄️ Bases de données
 
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+
+* MySQL
+* PostgreSQL
+* SQL
+* JPA
+* Hibernate
+* Database modeling
+* Relationships and transactions
+
+---
+
+### 📨 Messaging
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
+</p>
+
+* Kafka Producer / Consumer
+* Topics
+* Partitions
+* Consumer Groups
+* Asynchronous communication
+* Event-driven architecture
+
+---
 
 ### 🐳 DevOps & CI/CD
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
+</p>
 
-### 🛒 CMS & E-Commerce
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
-![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge\&logo=prestashop\&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge\&logo=drupal\&logoColor=white)
-
-### 🔧 Outils & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge\&logo=subversion\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge\&logo=gradle\&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge\&logo=webpack\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge\&logo=composer\&logoColor=white)
-
-### 📐 Méthodologie & Modélisation
-
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge\&logo=agile\&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge\&logo=scrumalliance\&logoColor=white)
-![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge\&logo=uml\&logoColor=black)
-
-### 💻 Systèmes d'Exploitation
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-
-### 📋 Standards & Bonnes Pratiques
-
-![W3C](https://img.shields.io/badge/W3C-005A9C?style=for-the-badge\&logo=w3c\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive-FF6B6B?style=for-the-badge\&logo=responsive\&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge\&logo=google\&logoColor=white)
-
-</div>
+* Docker
+* Jenkins
+* SonarQube
+* Maven
+* Gradle
+* CI/CD
+* Linux / Ubuntu
+* Git / GitHub
 
 ---
 
-## 📊 Statistiques GitHub
+### 📝 CMS & E-Commerce
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khemiriahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemiriahmed&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop">
+  <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal">
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khemiriahmed&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khemiriahmed&theme=redical&hide_border=true" />
-</div>
-
----
-
-## 🎯 Expertise & Compétences
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-
-### 💻 Frontend
-
-* ✨ Développement d'interfaces modernes avec **React**, **Angular** et **Vue.js**
-* 🎨 Maîtrise des composants réutilisables et architecture modulaire
-* 📱 Design responsive et mobile-first
-* ⚡ Optimisation des performances et Core Web Vitals
-* 🔄 Gestion d'état avec Redux, Context API, Vuex et Pinia
-* 🎭 Préprocesseurs CSS avec **Sass**
-* 🎨 UI avec **Tailwind CSS** et **Bootstrap**
-* 🌐 Standards W3C et accessibilité
-
-</td>
-    <td align="center" width="50%">
-
-### ☕ Java / Spring Boot
-
-* 🚀 Développement backend avec **Java / Spring Boot**
-* 🔗 Création d'APIs REST avec **Spring Web**
-* 🗃️ Persistence avec **Spring Data JPA / Hibernate**
-* 🔐 Sécurisation avec **Spring Security**
-* 🎫 Authentification avec **JWT / OAuth2**
-* 🔑 Gestion des identités avec **Keycloak**
-* 🧩 Conception d'architectures **Microservices**
-* 🔎 Service Discovery avec **Eureka**
-* 🚪 API Gateway avec **Spring Cloud Gateway**
-* 📨 Communication asynchrone avec **Apache Kafka**
-* 🐳 Conteneurisation avec **Docker**
-
-</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-
-### ⚙️ PHP / Laravel / APIs
-
-* 🏗️ Architecture **PHP POO**
-* 🚀 Développement avec **Laravel**
-* 📡 Conception d'APIs RESTful
-* 🔐 Authentification JWT / Sanctum
-* 🗄️ MySQL et PostgreSQL
-* 📦 Gestion des dépendances avec Composer
-* 🧪 Tests unitaires et d'intégration
-
-</td>
-    <td align="center" width="50%">
-
-### 🛒 CMS & E-Commerce
-
-* 📝 Développement et intégration **WordPress**
-* 🛒 Développement e-commerce **PrestaShop**
-* 🌐 Développement et intégration **Drupal**
-* 🎨 Elementor, thèmes et plugins WordPress
-* 🔧 Custom Post Types & ACF
-* 🔍 Optimisation SEO
-* 📱 Responsive Design
-
-</td>
-  </tr>
-</table>
+* WordPress
+* Elementor
+* ACF
+* Custom Post Types
+* PrestaShop
+* Drupal
+* SEO
+* Responsive integration
 
 ---
 
-## 🏗️ Architecture & Microservices
+## 🎯 Compétences principales
+
+| Domaine         | Compétences                                        |
+| --------------- | -------------------------------------------------- |
+| ☕ Backend       | Java, Spring Boot, Spring Security, JPA, Hibernate |
+| 🧩 Architecture | Microservices, Spring Cloud, Eureka, API Gateway   |
+| 📨 Messaging    | Apache Kafka                                       |
+| 🔐 Sécurité     | JWT, OAuth2, OpenID Connect, Keycloak              |
+| 🌐 Frontend     | React, Angular, Vue.js, JavaScript, TypeScript     |
+| 🐘 Backend PHP  | PHP POO, Laravel                                   |
+| 🗄️ Database    | MySQL, PostgreSQL                                  |
+| 🐳 DevOps       | Docker, Jenkins, SonarQube, CI/CD                  |
+| 📝 CMS          | WordPress, PrestaShop, Drupal                      |
+| 🔧 Tools        | Git, GitHub, Maven, Gradle, npm, Composer          |
+| 📐 Méthodologie | Agile, Scrum, UML                                  |
+
+---
+
+## 🏗️ Architecture Microservices
 
 ```text
                          ┌─────────────────────┐
@@ -264,244 +252,213 @@ const developpeur = {
                                     ▼
                          ┌─────────────────────┐
                          │     API Gateway     │
-                         │ Spring Cloud        │
-                         │ Gateway             │
+                         │  Spring Cloud       │
+                         │     Gateway         │
                          └──────────┬──────────┘
                                     │
-                  ┌─────────────────┼─────────────────┐
-                  │                 │                 │
-                  ▼                 ▼                 ▼
-          ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
-          │ User Service │  │Product       │  │Order Service │
-          │ Spring Boot  │  │Service       │  │ Spring Boot  │
-          │              │  │Spring Boot   │  │              │
-          └──────┬───────┘  └──────┬───────┘  └──────┬───────┘
-                 │                 │                 │
-                 └─────────────────┼─────────────────┘
+                 ┌──────────────────┼──────────────────┐
+                 │                  │                  │
+                 ▼                  ▼                  ▼
+        ┌────────────────┐ ┌────────────────┐ ┌────────────────┐
+        │ User Service   │ │ Product        │ │ Order Service  │
+        │ Spring Boot    │ │ Service        │ │ Spring Boot    │
+        │                │ │ Spring Boot    │ │                │
+        └───────┬────────┘ └───────┬────────┘ └───────┬────────┘
+                │                  │                  │
+                └──────────────────┼──────────────────┘
                                    │
                                    ▼
                          ┌─────────────────────┐
                          │   Eureka Server     │
-                         │ Service Discovery   │
+                         │  Service Discovery  │
                          └─────────────────────┘
 
                     ┌─────────────────────────┐
                     │      Apache Kafka       │
-                    │ Event / Messaging       │
+                    │  Event / Messaging      │
                     └─────────────────────────┘
 
                     ┌─────────────────────────┐
-                    │       Keycloak          │
-                    │ Auth / OAuth2 / OIDC    │
+                    │        Keycloak         │
+                    │   OAuth2 / OIDC / Auth  │
                     └─────────────────────────┘
 ```
 
 ---
 
-## 🔐 Sécurité
-
-Je travaille avec différentes solutions de sécurité pour sécuriser les applications web et les architectures microservices :
-
-* 🔐 **Spring Security**
-* 🎫 **JWT**
-* 🔑 **OAuth2**
-* 🆔 **OpenID Connect**
-* 👤 **Keycloak**
-* 🛡️ Gestion des rôles et permissions
-* 🔒 Authentification et autorisation
-* 🚪 Sécurisation des APIs REST
-* 🔄 Architecture Stateless
-
----
-
-## 📨 Messaging & Event-Driven Architecture
-
-### Apache Kafka
-
-* 📤 Production de messages avec Kafka Producer
-* 📥 Consommation avec Kafka Consumer
-* 📡 Communication asynchrone entre microservices
-* 🔄 Event-driven architecture
-* 📦 Gestion des topics et partitions
-* ⚡ Découplage des services
-
----
-
-## 🐳 DevOps & Qualité
-
-* 🐳 **Docker**
-* 🔄 **Jenkins**
-* 📊 **SonarQube**
-* 🔀 **Git / GitHub**
-* 📦 **Maven / Gradle**
-* 🧪 Tests unitaires et intégration
-* 🚀 CI/CD
-* 🐧 Linux / Ubuntu
-* 💻 Windows
-
----
-
-## 🌟 Points Forts
-
-```php
-<?php
-
-class AhmedKhemiri extends Developpeur
-{
-    protected array $competences = [
-
-        'frontend' => [
-            'React',
-            'Angular',
-            'Vue.js',
-            'JavaScript ES6+',
-            'TypeScript',
-            'jQuery',
-            'HTML5',
-            'CSS3',
-            'Sass',
-            'Tailwind CSS',
-            'Bootstrap'
-        ],
-
-        'java' => [
-            'Java',
-            'Spring Boot',
-            'Spring Security',
-            'Spring Data JPA',
-            'Hibernate',
-            'Spring Cloud',
-            'Microservices',
-            'Eureka',
-            'Spring Cloud Gateway',
-            'Apache Kafka',
-            'Keycloak'
-        ],
-
-        'backend' => [
-            'PHP POO',
-            'Laravel',
-            'REST API'
-        ],
-
-        'cms' => [
-            'WordPress',
-            'PrestaShop',
-            'Drupal'
-        ],
-
-        'databases' => [
-            'MySQL',
-            'PostgreSQL'
-        ],
-
-        'devops' => [
-            'Docker',
-            'Jenkins',
-            'SonarQube',
-            'CI/CD'
-        ],
-
-        'versionControl' => [
-            'Git',
-            'GitHub',
-            'SVN'
-        ],
-
-        'buildTools' => [
-            'Maven',
-            'Gradle',
-            'npm',
-            'Composer'
-        ],
-
-        'methodologie' => [
-            'Agile',
-            'Scrum',
-            'UML'
-        ],
-
-        'os' => [
-            'Linux',
-            'Ubuntu',
-            'Windows'
-        ]
-    ];
-
-    public function mesAtouts(): array
-    {
-        return [
-            '✅ 5+ années d’expérience en développement web',
-            '✅ Développement Full Stack',
-            '✅ Java / Spring Boot',
-            '✅ Architecture Microservices',
-            '✅ APIs REST',
-            '✅ Spring Security / JWT / OAuth2',
-            '✅ Keycloak',
-            '✅ Spring Cloud / Eureka / API Gateway',
-            '✅ Apache Kafka',
-            '✅ React / Angular / Vue.js',
-            '✅ Laravel / PHP POO',
-            '✅ Docker / Jenkins / SonarQube',
-            '✅ MySQL / PostgreSQL',
-            '✅ Code propre et maintenable',
-            '✅ Méthodologie Agile Scrum',
-            '✅ Veille technologique constante',
-            '✅ Passion pour l’innovation et l’excellence'
-        ];
-    }
-}
-```
-
----
-
-## 📚 Architecture & Design Patterns
+## 🔐 Architecture de sécurité
 
 ```text
-Clean Code
-    │
-    ├── SOLID
-    ├── Design Patterns
-    ├── Layered Architecture
-    ├── MVC
-    ├── REST Architecture
-    ├── Microservices
-    ├── Event-Driven Architecture
-    └── API First
+       Client
+          │
+          │ Login
+          ▼
+     ┌───────────┐
+     │ Keycloak  │
+     └─────┬─────┘
+           │
+           │ JWT
+           ▼
+     ┌───────────────┐
+     │ API Gateway   │
+     └───────┬───────┘
+             │
+             ▼
+     ┌────────────────┐
+     │ Spring Security│
+     └───────┬────────┘
+             │
+             ▼
+       Microservices
 ```
 
 ---
 
-## 💡 Citation Favorite
+## 🚀 Projets techniques
 
-<div align="center">
+### ☕ Spring Boot Microservices
 
-> *"Si vous devez ajouter de nombreux commentaires pour expliquer ce que fait le code, il est probablement trop complexe."*
+Projet d'architecture distribuée basé sur l'écosystème Spring Cloud.
 
-</div>
+**Technologies :**
+
+* Java
+* Spring Boot
+* Spring Cloud
+* Eureka Server
+* Spring Cloud Gateway
+* Spring Security
+* JWT
+* Keycloak
+* Apache Kafka
+* REST API
+* Docker
+* MySQL / PostgreSQL
+
+**Fonctionnalités :**
+
+* Architecture Microservices
+* Service Discovery
+* API Gateway
+* Communication inter-services
+* Authentification JWT
+* Gestion des rôles et permissions
+* Communication asynchrone avec Kafka
+* Conteneurisation Docker
 
 ---
 
-## 📫 Restons Connectés !
+### 📦 Application de gestion de stock
+
+Application web de gestion développée autour d'une architecture frontend/backend.
+
+**Backend :**
+
+* Java
+* Spring Boot
+* Spring Security
+* JWT
+* JPA / Hibernate
+* MySQL
+* REST API
+
+**Frontend :**
+
+* Angular
+* TypeScript
+* RxJS
+* Bootstrap
+
+**Fonctionnalités :**
+
+* Authentification
+* Gestion des utilisateurs
+* Gestion des entreprises
+* Gestion des produits
+* Gestion des catégories
+* Gestion des stocks
+* Gestion des rôles
+* Sécurisation des endpoints REST
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-Je suis toujours ouvert aux nouvelles opportunités et collaborations intéressantes ! 🤝
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khemiriahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
-### 💼 Disponible pour
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemiriahmed&layout=compact&langs_count=8&theme=radical" />
 
-* 🚀 Opportunités **Java / Spring Boot**
-* 💻 Postes **Développeur Full Stack**
-* ☕ Projets **Spring Boot / Microservices**
-* 🎨 Projets **React / Angular / Vue.js**
-* 🐘 Projets **Laravel / PHP**
-* 🤝 Collaborations open source
-* 💡 Conseils et collaborations techniques
+</div>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-khemiri-19it/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:khemiriahmed6@gmail.com)
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khemiriahmed&theme=radical" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khemiriahmed&theme=redical&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 📚 Principes de développement
+
+Je privilégie :
+
+* 🧹 Clean Code
+* 🧩 SOLID
+* 🏗️ Architecture modulaire
+* 🔄 Réutilisabilité
+* 🔐 Security by Design
+* 🧪 Tests
+* 📖 Documentation
+* ⚡ Performance
+* 📈 Scalabilité
+* 🔍 Qualité du code
+* 🔧 Maintenabilité
+
+---
+
+## 💡 Citation
+
+<div align="center">
+
+> *"La simplicité est la sophistication suprême."*
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+### 🤝 Ouvert aux nouvelles opportunités
+
+Je suis intéressé par des opportunités autour du **développement Full Stack**, notamment :
+
+**Java • Spring Boot • Microservices • React • Angular • Vue.js • Laravel**
+
+<br>
+
+<a href="https://www.linkedin.com/in/ahmed-khemiri-19it/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ahmed_Khemiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:khemiriahmed6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-khemiriahmed6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
@@ -509,8 +466,8 @@ Je suis toujours ouvert aux nouvelles opportunités et collaborations intéressa
 
 <div align="center">
 
-### 🙏 Merci de votre visite !
+### ⭐ Merci de votre visite !
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer">
 
 </div>
