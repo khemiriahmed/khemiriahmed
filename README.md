@@ -42,11 +42,12 @@ const developpeur = {
     ],
     backend: [
         "Java",
+        "PHP"
         "Spring Boot",
         "Spring Security",
         "Spring Cloud",
         "Laravel",
-        "PHP"
+      
     ],
     actuellement: "Toujours en apprentissage de nouvelles technologies 🌱"
 };
