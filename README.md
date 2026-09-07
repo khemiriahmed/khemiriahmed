@@ -213,21 +213,6 @@
 ---
 
 
-
-## 🐳 DevOps & Qualité
-
-* 🐳 **Docker**
-* 🔄 **Jenkins**
-* 📊 **SonarQube**
-* 🔀 **Git / GitHub**
-* 📦 **Maven / Gradle**
-* 🧪 Tests unitaires et intégration
-* 🚀 CI/CD
-* 🐧 Linux / Ubuntu
-* 💻 Windows
-
-
-
 ## 💡 Citation Favorite
 
 <div align="center">
