@@ -15,16 +15,7 @@
 
 </div>
 
----
 
-## 🚀 À propos de moi
-
-
-🎯 **Expertise** : Conception et développement d'applications web adaptatives de bout en bout
-⚡ **Spécialités** : Frontend moderne, backend Java/Spring Boot, APIs REST et architectures microservices
-🌟 **Approche** : Code maintenable, bonnes pratiques, sécurité, performance et scalabilité
-
----
 
 ## 🛠️ Stack Technique
 
@@ -47,43 +38,19 @@
 
 ### ⚙️ Backend Development
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
-### 🧩 Microservices & Architecture
 
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge\&logo=keycloak\&logoColor=white)
-
-### 🔐 Sécurité
-
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge\&logo=oauth\&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge\&logo=keycloak\&logoColor=white)
 
 ### 🗄️ Bases de Données
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
 
-### 📨 Messaging & Event Driven
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-
-### 🐳 DevOps & CI/CD
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
 
 ### 🛒 CMS & E-Commerce
 
@@ -91,17 +58,7 @@
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge\&logo=prestashop\&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge\&logo=drupal\&logoColor=white)
 
-### 🔧 Outils & Workflow
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge\&logo=subversion\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge\&logo=gradle\&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge\&logo=webpack\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge\&logo=composer\&logoColor=white)
 
 ### 📐 Méthodologie & Modélisation
 
@@ -115,12 +72,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
-### 📋 Standards & Bonnes Pratiques
-
-![W3C](https://img.shields.io/badge/W3C-005A9C?style=for-the-badge\&logo=w3c\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive-FF6B6B?style=for-the-badge\&logo=responsive\&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge\&logo=google\&logoColor=white)
 
 </div>
 
@@ -141,74 +92,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khemiriahmed&theme=redical&hide_border=true" />
 </div>
 
----
 
-## 🎯 Expertise & Compétences
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-
-### 💻 Frontend
-
-* ✨ Développement d'interfaces modernes avec **React**, **Angular** et **Vue.js**
-* 🎨 Maîtrise des composants réutilisables et architecture modulaire
-* 📱 Design responsive et mobile-first
-* ⚡ Optimisation des performances et Core Web Vitals
-* 🔄 Gestion d'état avec Redux, Context API, Vuex et Pinia
-* 🎭 Préprocesseurs CSS avec **Sass**
-* 🎨 UI avec **Tailwind CSS** et **Bootstrap**
-* 🌐 Standards W3C et accessibilité
-
-</td>
-    <td align="center" width="50%">
-
-### ☕ Java / Spring Boot
-
-* 🚀 Développement backend avec **Java / Spring Boot**
-* 🔗 Création d'APIs REST avec **Spring Web**
-* 🗃️ Persistence avec **Spring Data JPA / Hibernate**
-* 🔐 Sécurisation avec **Spring Security**
-* 🎫 Authentification avec **JWT / OAuth2**
-* 🔑 Gestion des identités avec **Keycloak**
-* 🧩 Conception d'architectures **Microservices**
-* 🔎 Service Discovery avec **Eureka**
-* 🚪 API Gateway avec **Spring Cloud Gateway**
-* 📨 Communication asynchrone avec **Apache Kafka**
-* 🐳 Conteneurisation avec **Docker**
-
-</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-
-### ⚙️ PHP / Laravel / APIs
-
-* 🏗️ Architecture **PHP POO**
-* 🚀 Développement avec **Laravel**
-* 📡 Conception d'APIs RESTful
-* 🔐 Authentification JWT / Sanctum
-* 🗄️ MySQL et PostgreSQL
-* 📦 Gestion des dépendances avec Composer
-* 🧪 Tests unitaires et d'intégration
-
-</td>
-    <td align="center" width="50%">
-
-### 🛒 CMS & E-Commerce
-
-* 📝 Développement et intégration **WordPress**
-* 🛒 Développement e-commerce **PrestaShop**
-* 🌐 Développement et intégration **Drupal**
-* 🎨 Elementor, thèmes et plugins WordPress
-* 🔧 Custom Post Types & ACF
-* 🔍 Optimisation SEO
-* 📱 Responsive Design
-
-</td>
-  </tr>
-</table>
 
 ---
 
@@ -229,15 +113,6 @@
 
 Je suis toujours ouvert aux nouvelles opportunités et collaborations intéressantes ! 🤝
 
-### 💼 Disponible pour
-
-* 🚀 Opportunités **Java / Spring Boot**
-* 💻 Postes **Développeur Full Stack**
-* ☕ Projets **Spring Boot / Microservices**
-* 🎨 Projets **React / Angular / Vue.js**
-* 🐘 Projets **Laravel / PHP**
-* 🤝 Collaborations open source
-* 💡 Conseils et collaborations techniques
 
 <br>
 
