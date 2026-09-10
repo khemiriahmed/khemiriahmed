@@ -16,7 +16,6 @@
 </div>
 
 
-
 ## 🛠️ Stack Technique
 
 <div align="center">
@@ -75,7 +74,6 @@
 
 </div>
 
----
 
 ## 📊 Statistiques GitHub
 
@@ -94,8 +92,6 @@
 
 
 
----
-
 
 ## 💡 Citation Favorite
 
@@ -105,7 +101,6 @@
 
 </div>
 
----
 
 ## 📫 Restons Connectés !
 
@@ -121,7 +116,7 @@ Je suis toujours ouvert aux nouvelles opportunités et collaborations intéressa
 
 </div>
 
----
+
 
 <div align="center">
 
